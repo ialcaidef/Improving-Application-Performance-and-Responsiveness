@@ -1,0 +1,6 @@
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll.config
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.dll
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\bin\Debug\Grades.Web.Models.pdb
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\obj\Debug\Grades.DataModel.csproj.CoreCompileInputs.cache
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.dll
+Z:\TAREAS\Tarea 5 Módulos 9 y 10\MOD10_LAK\Grades.DataModel\obj\Debug\Grades.Web.Models.pdb
